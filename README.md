@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lgpearson1771
-- 👀 I’m interested: just about everything that has to do with coding! Currently, Java is my favorite language, but I also know C++ pretty well and am familiar with Python.
-- 🌱 I’m currently: a Senior majoring in Computer Science & Engineering at the University of Iowa
-- 💞️ I’m looking to collaborate on: Anything! I love to code fun at-home prjects, webpages, etc.
+I’m @lgpearson1771
+- 👀 I’m interested: In just about everything that has to do with coding! I am proficient in many different languages (Java, C++, Ruby, Python, etc.) and would love to work and gain more experience using different frameworks.
+- 🌱 I’m currently: A Senior majoring in Computer Science & Engineering at the University of Iowa and an incoming Software Engineer at Microsoft!
+- 💞️ I’m looking to collaborate on: Anything! I love to code fun at-home prjects, webpages, etc. I would love to learn more and get some more exerpince with AI/Cloud projects.
 - 📫 How to reach me: email me at l.pearson.vzw@gmail.com
 
 <!---
